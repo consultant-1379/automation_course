@@ -1,0 +1,11 @@
+1. Create your branch named by signum
+2. Switch to new branch (if not switched)
+3. Create a file name course1
+4. Add file to local git repository.
+5. Create a commit with message "<your signum> file1"
+6. Push your local branch to remote
+7. Add something to file1 and commi you change
+8. Create change request for branch master. 
+9. Chnage something in your locla file1
+10. Amend commit 
+11. Push the change.
